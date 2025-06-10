@@ -36,7 +36,7 @@ from langchain_chroma import Chroma
 # ==============================================================================
 
 # API Configuration
-API_KEY = "aa-I5LA3kIy4wJMpV0pWFUJo6Ih9WpKpeMZNj48rPf168iVVYvZ"
+API_KEY = "aaWFUJo6Ih9WpKpeMZNj48rPf168iVVYvZ"
 BASE_URL = "https://api.avalai.ir/v1"
 
 # Model Configuration
